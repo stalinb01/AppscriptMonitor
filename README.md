@@ -2,11 +2,11 @@
 Herramienta para la monitorización de servicios HTTP y HTTPS.
 
 ## Objetivo
-Crear una herramienta capaz de monitorizar cualquier servicio web (HTTP/HTTPS) ubicado en cualquier lugar, utilizando Google Sheets y App Script.
+Crear una herramienta que permita monitorear servicios web (HTTP/HTTPS) visibles desde internet, utilizando herramientas en la nube de Google Sheets y App Script.
 
 ## Recursos
 ### 1- Hoja de cálculo de Google con 4 hojas
-### -Configuración: Esta hoja contiene los parámetros de configuración para el envío de mensajes por correo electrónico y Telegram. También incluye la lista de servidores con servicio HTTP/HTTPS a monitorizar.
+### Configuración: Esta hoja contiene los parámetros de configuración para el envío de mensajes por correo electrónico y Telegram. También incluye la lista de servidores con servicio HTTP/HTTPS a monitorizar.
     #### Estado actual: Esta hoja muestra el estado del servidor (activo o inactivo) y la fecha y hora en que cambió de estado. 
     #### Historial: Esta hoja contiene todos los registros de cambios de estado de todos los servidores. 
     #### Informe de disponibilidad: Este es un resumen que muestra el tiempo que el servidor ha estado activo o inactivo.
