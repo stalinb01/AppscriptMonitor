@@ -6,7 +6,7 @@ Crear una herramienta que permita monitorear servicios web (HTTP/HTTPS) visibles
 
 ## Recursos
 ### 1- Hoja de cálculo de Google con 4 hojas
-### Configuración: Esta hoja contiene los parámetros de configuración para el envío de mensajes por correo electrónico y Telegram. También incluye la lista de servidores con servicio HTTP/HTTPS a monitorizar.
+### Configuración: Esta hoja contiene los parámetros para el envío de mensajes por correo electrónico y Telegram, también incluye la lista de servidores con servicio HTTP/HTTPS a monitorizar.
   #### a- Estado actual: Esta hoja muestra el estado del servidor (activo o inactivo) y la fecha y hora en que cambió de estado. 
   #### b- Historial: Esta hoja contiene todos los registros de cambios de estado de todos los servidores. 
   #### c- Reporte: Este es un resumen que muestra el tiempo que el servidor ha estado activo o inactivo.
